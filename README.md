@@ -6,8 +6,8 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
 Atualmente focado em Engenharia de Dados, desenvolvendo projetos com Python, SQL, ETL e PostgreSQL. Busco fortalecer minha base em modelagem de dados, bancos de dados relacionais e construção de pipelines de dados, enquanto evoluo para tecnologias amplamente utilizadas no mercado de dados.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/diogo-barroso-a62aa0368)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:barrosof.diogo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-barroso-a62aa0368)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrosof.diogo@gmail.com)
 
 ---
 
