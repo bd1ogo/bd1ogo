@@ -1,16 +1,39 @@
-## Hi there 👋
+# Diogo Barroso 💻
 
-<!--
-**bd1ogo/bd1ogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Data Engineering Student`
 
-Here are some ideas to get you started:
+Estudante de Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente focado em Engenharia de Dados, desenvolvendo projetos com Python, SQL, ETL e PostgreSQL. Busco fortalecer minha base em modelagem de dados, bancos de dados relacionais e construção de pipelines de dados, enquanto evoluo para tecnologias amplamente utilizadas no mercado de dados.
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/diogo-barroso-a62aa0368)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:barrosof.diogo@gmail.com)
+
+---
+
+## 🛠 Linguagens e Tecnologias
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bd1ogo&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bd1ogo&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
